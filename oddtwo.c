@@ -6,7 +6,7 @@ int l,k,t;
   scanf("%d",&l);
   printf("Enter the ending intervals:");
   scanf("%d",&t);
-for(k=0;k<=t;k++)
+for(k=l;k<=t;k++)
 if(k%2!=0)
 {
 printf(" %d",k);
