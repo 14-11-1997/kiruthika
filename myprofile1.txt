@@ -37,9 +37,8 @@
 <li><b> FATHER'S NAME = Mr.M.Sangaramoorthy.</b></li><br>
 <li><b> MOTHER'S NAME = Mrs.S.Amutha.</b></li><br>
 <li><b> Date Of Birth = 14.06.1997</b></li><br>
-<li><b> ADDRESS = 8D/243,Avarangadu,
-                                    Pallipalayam,
-                                    Namakkal(dt)-638006.
+<li><b> ADDRESS = 8D/243,Avarangadu,Pallipalayam,Namakkal(dt)-638006.<b></li>
+</ul>
 
 </head>
 </html>
