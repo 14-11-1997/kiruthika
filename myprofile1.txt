@@ -1,0 +1,45 @@
+<html>
+<body background="images (4).jpg">
+<title="MY PROFILE</title>
+</body>
+<head>
+<center><h1 style="color:blue"><b>MY PROFILE</b></h1></center>
+<center><b><p style="color:indigo">HAI FRIENDS, I  AM  KIRUTHIKA.</p></b></center>
+<center><b><p style="color:indigo">THIS IS MY FIRST WEB PAGE FOR MY PROFILE.</p></b></center> 
+<h2 style="color:teal">THIS IS EDUCATIONAL DETAILES:
+<img src="download (1).jpg"  style="float:right;width:600px height:600px;"></h2>
+<h3 style="color:green">SCHOOL DETAILS:</h3>
+<ul>
+<li><b> NAME : KRISHNAVENI GOVT GIRLS HR SEC SCHOOL</b></li><br>
+<li><b> SSLC : 86 </b></li><br>
+<li><b> COMPLETED IN SSLC:2012<b></li><br>
+<li><b> HSC  : 79  </b></li><br>
+<li><b>COMPLETED IN HSC:2014<b></li><br>
+<li><b> ADDRESS : Pallipalayam,Namakkal(dt)
+</ul>
+<h3 style="color:green">COLLEGE DETAILS:
+<img src="download (2).jpg"  style="float:right;width:600px height:600px;"></h3>
+<ul >
+<li> NAME : K.S.R.College of Engineering</li><br>
+<li> I SEM SGPA : 5.96</li><br>
+<li> II SEM SGPA : 7.929</li><br>
+<li> III SEM SGPA: 8.63 </li><br>
+<li> IV SEM SGPA: 8.346</li><br>
+<li> V SEM SGPA: 9.000</li><br>
+<li>VI SEM SGPA:  8.615</li><br>
+<li>TOTAL CGPA:8.095</li><br>
+<li>Batch:2014-2018</li><br>
+<li>ADDRESS:Thirucencode,Namakkal(dt)</li>
+</ul>
+<h2 style="color:teal">MY PERSONAL DETAILS:
+<img src="download (3).jpg"  style="float:right;width:600px height:600px;"></h2>
+<ul>
+<li><b> FATHER'S NAME = Mr.M.Sangaramoorthy.</b></li><br>
+<li><b> MOTHER'S NAME = Mrs.S.Amutha.</b></li><br>
+<li><b> Date Of Birth = 14.06.1997</b></li><br>
+<li><b> ADDRESS = 8D/243,Avarangadu,
+                                    Pallipalayam,
+                                    Namakkal(dt)-638006.
+
+</head>
+</html>
